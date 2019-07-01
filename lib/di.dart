@@ -1,4 +1,4 @@
-library di;
+library ddi;
 
 import 'injector.dart';
 import 'module.dart';

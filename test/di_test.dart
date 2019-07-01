@@ -1,7 +1,6 @@
-import 'package:di/module.dart';
+import 'package:ddi/di.dart';
+import 'package:ddi/module.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:di/di.dart';
 
 class TestClass {
   var _x;
