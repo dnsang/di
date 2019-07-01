@@ -2,7 +2,7 @@
 
 **Getting Started**
 
-1/ Init your module:    
+1/ Binding:    
     
     class TestModule extends AbstractModule {
 	    @override
