@@ -1,4 +1,3 @@
-
 import 'module.dart';
 
 class Injector {
@@ -57,7 +56,7 @@ class BinderImpl implements Binder {
   var _mapInstance = new Map<dynamic, Object>();
 
   @override
-  Binder _bind(dynamic key, Object obj) {    
+  Binder _bind(dynamic key, Object obj) {
     _mapInstance[key] = obj;
     return this;
   }

@@ -3,7 +3,6 @@ library ddi;
 import 'injector.dart';
 import 'module.dart';
 
-
 class DI {
   static Injector _injector;
 

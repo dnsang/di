@@ -1,5 +1,5 @@
 name: ddi 
-description: A Dart Dependency Injection package
+description: A lightweight powerful Dependency Injection package brought to you by XED. DDI will make your development & debuging easier & faster.
 version: 0.1.0
 author: sangdang <sang@x.education>
 homepage: https://github.com/dnsang/di
