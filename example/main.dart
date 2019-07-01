@@ -11,6 +11,8 @@ void main(List<String> args) {
 
   Logger logger = DI.get(Logger);
   logger.debug("Hello Dart Dependency Injection");  
+  var logger2 = DI.get<Logger>(Logger);
+  logger2.debug("Hello Dart Dependency Injection");
 }
 
 class ExampleModule extends AbstractModule{
