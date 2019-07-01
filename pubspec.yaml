@@ -1,8 +1,8 @@
-name: di
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+name: ddi 
+description: A Dart Dependency Injection package
+version: 0.1.0
+author: sangdang <sang@x.education>
+homepage: https://github.com/dnsang/di
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
