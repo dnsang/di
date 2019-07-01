@@ -1,4 +1,5 @@
 # Miscellaneous
+*.swo
 *.lock
 *.class
 *.log
